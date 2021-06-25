@@ -1,0 +1,15 @@
+.title{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 423px;
+  height: 73px;
+  background: url(../public/images/bg.png);
+  text-align: center;
+  line-height: 73px;
+  font-size: 20px;
+  color: #fff;
+  box-shadow: 0 0 20px rgba(0,0,0,.5);
+  border: 1px solid rgba(81, 235, 255, 0.6);
+}
